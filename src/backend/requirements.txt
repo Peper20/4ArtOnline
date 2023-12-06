@@ -1,0 +1,6 @@
+bcrypt==3.2.2
+fastapi[all]
+SQLAlchemy
+fastapi-users[sqlalchemy]
+alembic
+asyncpg
